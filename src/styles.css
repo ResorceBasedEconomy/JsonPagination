@@ -3,3 +3,22 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
 }
+.counter > h3{
+  border-bottom: solid black;
+  margin-bottom: 0;
+  
+}
+.user {
+  float: left;
+  max-width: 25%;
+  border-right: solid;
+  
+}
+.user p {
+  cursor: pointer; 
+}
+.preview {
+  float: left;
+  max-width: 70%;
+  margin-left: 10px;
+}
